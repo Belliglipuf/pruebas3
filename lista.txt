@@ -4,10 +4,9 @@ pepinillo
 soja
 lechuga
 tomate
-
+maíz
 
 
 
 Opcional:
 tofu
-maiz
