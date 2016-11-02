@@ -6,8 +6,9 @@ pepinillo
 soja
 lechuga
 tomate
-ma�z
+maíz
 zanahoria
+atún
 
 
 Opcional:
