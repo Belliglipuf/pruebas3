@@ -7,7 +7,7 @@ soja
 lechuga
 tomate
 maíz
-
+zanahoria
 
 
 Opcional:
